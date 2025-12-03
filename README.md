@@ -1,4 +1,4 @@
-# model_merging
+# Model Merging for Deep Reinforcement Learning in Autonomous Financial Trading System
 
 Code for implementing the model merging model for the Model Merging for Deep Reinforcement Learning in Autonomous Financial Trading System work 
 
